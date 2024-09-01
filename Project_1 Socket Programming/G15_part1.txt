@@ -1,0 +1,5 @@
+Task1:
+1------->ping www.ox.ac.uk
+2------->tracert www.ox.ac.uk
+3------->nslookup www.ox.ac.uk
+4------->telnet www.ox.ac.uk

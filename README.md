@@ -1,5 +1,4 @@
 # ENCS3320 - COMPUTER NETWORKS
-by Anas Al Sayed
 This repository contains the projects and assignments for the **ENCS3320 - Computer Networks** course. The course focuses on the fundamentals of computer networking, including socket programming, network design, IP subnetting, routing protocols, and network simulation tools.
 
 ## Table of Contents
